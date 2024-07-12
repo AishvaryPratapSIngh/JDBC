@@ -1,0 +1,13 @@
+		Connection con = null;
+		PreparedStatement ps = null;]
+			Statement st = null;
+		ResultSet res = null;
+		Scanner sc = new Scanner(System.in);
+		
+			String query1 = "SELECT * FROM `EMPLOYEE'";
+		String query2 = "UPDATE `employee` SET `salary` = `salary`- ?  ";
+	
+		con.createStatement();
+			ps = con.prepareStatement(null);
+			st = con.createStatement();
+			res = st.executeQuery(query1);

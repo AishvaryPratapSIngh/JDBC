@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.tap.jdbc","c":"Launch","l":"Launch()","u":"%3Cinit%3E()"},{"p":"com.tap.jdbc","c":"Launch","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
